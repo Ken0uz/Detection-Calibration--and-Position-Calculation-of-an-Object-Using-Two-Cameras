@@ -111,8 +111,8 @@ object_detection_app/
 ## Contributors
 - Kenza Taouci
 - Mohamed Anes Mihoubi
-- Hamza Taourirt
 - Abderahmane Aitidir
+- Hamza Taourirt
 
 ---
 
