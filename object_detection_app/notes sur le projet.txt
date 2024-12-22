@@ -1,0 +1,5 @@
+il faut faire la demonstration des 3 parties separement (tache pour interface + sparation de code)
+afficher les coordonnees avec repere des cameras (ce qui on a fait) + repere de monde reele  (modification de code + ajout de calcul des reperes)
+le modele de detection doit eliminer les faux positives
+la calibration doit etre simultanee dans les deux cameras (modification de code)
+amelioration des trois parties soit reste dans la patrie lui meme, 4 eme partie doit avoir une nouvelle chose

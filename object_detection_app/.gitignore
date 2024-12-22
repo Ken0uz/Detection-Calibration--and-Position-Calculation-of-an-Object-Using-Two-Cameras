@@ -1,0 +1,9 @@
+*.log
+yolov9/runs/train/exp2/weights/*
+yolov9/runs/train/exp3/weights/*
+yolo_venv/
+temp/
+yolov9/best_ancien.pt
+__pycache__
+site
+yolov9/
