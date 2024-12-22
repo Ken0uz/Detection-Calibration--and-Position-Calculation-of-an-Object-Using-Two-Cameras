@@ -98,7 +98,7 @@ object_detection_app/
 - **Object Tracking**:
   - Tracks the route of the object.
   - Calculates speed and predicts future positions.
-- **Multithreading**: Parallelizes detection and tracking processes for real-time performance.
+- **Multithreading**: Parallelizes detection ,tracking , calibration and all processes for real-time performance.
 
 ---
 
